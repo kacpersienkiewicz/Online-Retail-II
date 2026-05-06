@@ -1,7 +1,5 @@
 # Online-Retail-II
-[Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii) includes a massive amount of orders and invoices by many customers, but not all of them are as valuable. Some customers are recent, and frequent big spenders and others are not. 
-
-The purpose here is to find out who these valuable customers are by using [RFM Analysis](https://www.investopedia.com/terms/r/rfm-recency-frequency-monetary-value.asp) for the business to be able to cater to and try to retain, and a Cohort Analysis to find trends to investigate.
+[Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii) includes a massive amount of orders and invoices by many customers, but by using an [RFM Analysis](https://www.investopedia.com/terms/r/rfm-recency-frequency-monetary-value.asp) the highest value customers can be found and catered to. A Cohort Analysis is similarly used to find high and low value cohorts.
 
 ## Exploratory Data Analysis
 * Removed entries with missing Customer IDs
@@ -15,6 +13,7 @@ The purpose here is to find out who these valuable customers are by using [RFM A
 A High Value Customer can be can be found by looking at RFM (Recency, Frequency, and Monetary Value), which is explained by an  These three values were calculated and then placed into quintiles for every Customer ID. RFM quintiles were created and used to manual segment customers into tiers of value like high and medium.
 
 ## Conclusions
-The RFM analysis revealed high and low value customers, and the Cohort Analysis showcased discrepancies in the data such as the January to October 2011 downtick which was possibly due to an uptick in higher than mode prices leading to an uptick in revenue for the period but a significant decrease in sales.
+The RFM analysis revealed high and low value customers which provides a list of customers that the business would want to cater to in order to keep.
 
-It also showcased other periods of below or above average value cohorts which could exist due to similar differences in price distribution.
+The Cohort Analysis showcased discrepancies in the data such as the January to October 2011 downtick which was possibly due to an uptick in higher than mode prices leading to an uptick in revenue for the period but a significant decrease in sales. The downside is that without more information, it is difficult to say with certainty what the specific issue is.
+
