@@ -1,5 +1,7 @@
 # Online-Retail-II
-[Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii) includes a massive amount of orders and invoices by many customers, but not all of them are as valuable. Some customers are recent, and frequent big spenders and others are not. The purpose here is to find out who these valuable customers are by using [RFM Analysis](https://www.investopedia.com/terms/r/rfm-recency-frequency-monetary-value.asp) and a Cohort Analysis to find trends to investigate.
+[Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii) includes a massive amount of orders and invoices by many customers, but not all of them are as valuable. Some customers are recent, and frequent big spenders and others are not. 
+
+The purpose here is to find out who these valuable customers are by using [RFM Analysis](https://www.investopedia.com/terms/r/rfm-recency-frequency-monetary-value.asp) and a Cohort Analysis to find trends to investigate.
 
 ## Exploratory Data Analysis
 * Removed entries with missing Customer IDs
