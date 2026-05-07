@@ -12,6 +12,8 @@
 ## High Value Customer
 A High Value Customer can be can be found by looking at RFM (Recency, Frequency, and Monetary Value), which is explained by an  These three values were calculated and then placed into quintiles for every Customer ID. RFM quintiles were created and used to manual segment customers into tiers of value like high and medium.
 
+[image](https://github.com/kacpersienkiewicz/Online-Retail-II/blob/main/Images/CohortAnalysis.png?raw=true)
+
 ## Conclusions
 The RFM analysis revealed high and low value customers which provides a list of customers that the business would want to cater to in order to keep.
 
