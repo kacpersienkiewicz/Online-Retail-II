@@ -1,22 +1,24 @@
 # Online-Retail-II
-[Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii) includes a massive amount of orders and invoices by many customers, but by using an [RFM Analysis](https://www.investopedia.com/terms/r/rfm-recency-frequency-monetary-value.asp) the highest value customers can be found and catered to. A Cohort Analysis is similarly used to find high and low value cohorts.
+[Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii) has over a million orders from a UK e-commerce store who needs help deciding where to allocate some of their marketing budget.
 
-## Exploratory Data Analysis
-* Removed entries with missing Customer IDs
-* Added a Revenue column based on price times quantity.
+## Key Metrics
+* Revenue per month
+* Average Order Value
+* Invoice Count
+* Customer Segmentation (done by RFM Analysis, which measures the recency, frequency and monetary value of a customer's purchases)
 
-## Cohort Analysis
-* Created cohorts based on first purchase month, and then used a heat map to showcase retention, which is based only on purchases and not returns.
-* The most obvious discrepancy is that January to October 2011 was a downturn for previous customers, which is looked into by looking at the difference in sales (quantity, number of invoices) and later looking at how the prices paid compared to the modal price. It seems to be due to a larger amount of higher than mode prices.
+## Preparation
 
-![image](https://github.com/kacpersienkiewicz/Online-Retail-II/blob/main/Images/CohortAnalysis.png?raw=true)
+## Revenue is concentrated in four months of the year
+September, October, November and December accoounts for roughly 45%  of total revenue for this two year period, with low points during the spring and summer. The minimum value for each year tends to be in February during the post-holliday lull in the cycle. Overall, this makes the business seasonal, and means that it relies on having solid numbers during these four months, which could be dangerous for the business and trying to improve the revenue numbers through marketing should be considered.
 
-## High Value Customer
-A High Value Customer can be can be found by looking at RFM (Recency, Frequency, and Monetary Value), which is explained by an  These three values were calculated and then placed into quintiles for every Customer ID. RFM quintiles were created and used to manual segment customers into tiers of value like high and medium.
+![image](https://github.com/kacpersienkiewicz/Online-Retail-II/blob/main/Images/Revenue_by_month.png?raw=true)
 
-![image](https://github.com/kacpersienkiewicz/Online-Retail-II/blob/main/Images/CustomerSegments.png?raw=true)
-## Conclusions
-The RFM analysis revealed high and low value customers which provides a list of customers that the business would want to cater to in order to keep.
+## The Off-Season has low order values and volume
+In addition to less revenue, the spring and summer months also have low average order values which could imply a lot of discount or small order sizes. In contrast, the peak months have higher average order values 
+![image](https://github.com/kacpersienkiewicz/Online-Retail-II/blob/main/Images/AOV_and_invoice_count_by_month.png?raw=true)
 
-The Cohort Analysis showcased discrepancies in the data such as the January to October 2011 downtick which was possibly due to an uptick in higher than mode prices leading to an uptick in revenue for the period but a significant decrease in sales. The downside is that without more information, it is difficult to say with certainty what the specific issue is.
+## 14% of Customers account for half of the revenue
+![image](https://github.com/kacpersienkiewicz/Online-Retail-II/blob/main/Images/Revenue_by_customer_segment_by_month.png?raw=true)
 
+## Conlcusion and Recommendations
