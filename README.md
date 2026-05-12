@@ -32,4 +32,6 @@ The company relies on a small subset of the population for 50% of its revenue an
 
 Another idea could be to create a VIP program to help retain the top 14% of customers as well as try to retain other high spenders by providing exclusive offers or early access to new products. 
 
+A third recommendation is to create categories for items to be able to talk about them broadly. Natural Language Processing (NLP) can be used, but the categories need to be agreed on by all relevant stakeholders, like the Marketing and Product Teams, so they can align marketing and product pushes.
+
 Both of these are intended to mitigate the possibility and risks if the peak season doesn't pan out well. Retaining top customers should help prevent it, and marketing during off-peak months should help provide revenue outside of that period.
