@@ -23,8 +23,13 @@ In addition to less revenue, the spring and summer months also have low average 
 ![image](https://github.com/kacpersienkiewicz/Online-Retail-II/blob/main/Images/AOV_and_invoice_count_by_month.png?raw=true)
 
 ## 14% of Customers account for half of the revenue
-The top customers for the business account for around 50% of revenue for any given month, with a peak of 59.5% in October 2011 and a low of 
+The top customers for the business account for around 50% of revenue for any given month, with a peak of 59.5% in October 2011 and a low of ~44% in March 2010. The high value customers in the next highest segment also contribute around 15% per year and then the other segments contribute the remaning amount. The compnany relies on both a small portion of the customer base and on a small section of the year, which is something that needs to be taken into account at a high level because it can be risky.
 
 ![image](https://github.com/kacpersienkiewicz/Online-Retail-II/blob/main/Images/Revenue_by_customer_segment_by_month.png?raw=true)
 
-## Conlcusion and Recommendations
+## Conclusion and Recommendations
+The company relies on a small subset of the population for 50% of its revenue and it relies a third of the year for a similar amount of revenue. This is a risky thing to rely on so the company should think about trying to improve revenue in the off-season during Spring and Summer, especially since the average order value and volume is much lower than the peak season which implies that there is a decent amount of untapped potential there. A marketing campaign focused on bundles or limited-time offers could help bring up that portion of the year to provide some sort of safety net if the peak season does not play out as well as it normally does.
+
+Another idea could be to create a VIP program to help retain the top 14% of customers as well as try to retain other high spenders by providing exclusive offers or early access to new products. 
+
+Both of these are intended to mitigate the possibility and risks if the peak season doesn't pan out well. Retaining top customers should help prevent it, and marketing during off-peak months should help provide revenue outside of that period.
