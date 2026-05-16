@@ -39,3 +39,8 @@ Another idea could be to create a VIP program to help retain the top 14% of cust
 A third recommendation is to create categories for items to be able to talk about them broadly. Natural Language Processing (NLP) can be used, but the categories need to be agreed on by all relevant stakeholders, like the Marketing and Product Teams, so they can align marketing and product pushes.
 
 Both of these are intended to mitigate the possibility and risks if the peak season doesn't pan out well. Retaining top customers should help prevent it, and marketing during off-peak months should help provide revenue outside of that period.
+
+## Links
+* [Tableau Dashboard](https://public.tableau.com/app/profile/kacper.sienkiewicz/viz/Online_Retail_II_17788993017010/Customers)
+* [Dataset](https://archive.ics.uci.edu/dataset/502/online+retail+ii)
+* 
