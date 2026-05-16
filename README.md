@@ -30,7 +30,7 @@ The top customers for the business account for around 50% of revenue for any giv
 ## Dominance of the first cohort
 In addition to the top 14% of customers accounting for around half of revenue, the first cohort of customers, who made their first purchase in December 2009, dominate metrics. They have placed the most orders and contributed the most revenue by a massive margin, but an important thing to note is that their Average Order Value is not much higher than the average cohort, which means that future cohorts can be as lucrative as the first cohort. Relying on this cohort is risky, but other cohorts can also be as productive as the first one if they were given the right incentives like promotions or rewards.
 
-![image](https://github.com/kacpersienkiewicz/Online-Retail-II/blob/main/Images/Customer_Segment_Dashboard.png?raw=true)
+![image](https://github.com/kacpersienkiewicz/Online-Retail-II/blob/main/Images/Customer%20Segment%20Dashboard.png?raw=true)
 ## Conclusion and Recommendations
 The company relies on a small subset of the population for 50% of its revenue and it relies a third of the year for a similar amount of revenue. This is a risky thing to rely on so the company should think about trying to improve revenue in the off-season during Spring and Summer, especially since the average order value and volume is much lower than the peak season which implies that there is a decent amount of untapped potential there. A marketing campaign focused on bundles or limited-time offers could help bring up that portion of the year to provide some sort of safety net if the peak season does not play out as well as it normally does.
 
