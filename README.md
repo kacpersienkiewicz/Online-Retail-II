@@ -35,7 +35,7 @@ In addition to the top 14% of customers accounting for around half of revenue, t
 ## Conclusion and Recommendations
 The company relies on a small subset of the population for 50% of its revenue and it relies a third of the year for a similar amount of revenue. This is a risky thing to rely on so the company should think about trying to improve revenue in the off-season during Spring and Summer, especially since the average order value and volume is much lower than the peak season which implies that there is a decent amount of untapped potential there. A marketing campaign focused on bundles or limited-time offers could help bring up that portion of the year to provide some sort of safety net if the peak season does not play out as well as it normally does.
 
-Another idea could be to create a VIP program to help retain the top 14% of customers as well as try to retain other high spenders by providing exclusive offers or early access to new products. This is vital to show especiall loyal customers, such as the productive first cohort from December 2009, that the company does not take them for granted.
+Another idea could be to create a VIP program to help retain the top 14% of customers as well as try to retain other high spenders by providing exclusive offers or early access to new products. Also, it could be used to encourage spending in the off-peak period as well. This helps show that the company cares about these loyal customers, and make sure revenue is not concentrated just in the holiday season.
 
 A third recommendation is to create categories for items to be able to talk about them broadly. Natural Language Processing (NLP) can be used, but the categories need to be agreed on by all relevant stakeholders, like the Marketing and Product Teams, so they can align marketing and product pushes.
 
@@ -44,3 +44,4 @@ Both of these are intended to mitigate the possibility and risks if the peak sea
 ## Links
 * [Tableau Dashboard](https://public.tableau.com/app/profile/kacper.sienkiewicz/viz/Online_Retail_II_17788993017010/Customers)
 * [Dataset](https://archive.ics.uci.edu/dataset/502/online+retail+ii)
+* See the Technical Overview PDF for some more info about why certain things were done.
