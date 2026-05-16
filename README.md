@@ -2,7 +2,7 @@
 [Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii) has over a million orders from a UK e-commerce store who needs help deciding where to allocate some of their marketing budget.
 
 ## Key Metrics
-* Revenue per month
+* Revenue
 * Average Order Value
 * Invoice Count
 * Customer Segmentation (done by RFM Analysis, which measures the recency, frequency and monetary value of a customer's purchases)
