@@ -6,6 +6,7 @@
 * Average Order Value
 * Invoice Count
 * Customer Segmentation (done by RFM Analysis, which measures the recency, frequency and monetary value of a customer's purchases)
+* Cohorts (Used to compare groups across time)
 
 ## Preparation
 While cleaning the data, I made the decision to remove returns and so any records with negative or zero quantity or prices because returns would mess with customer metrics such as frequency of purchases and revenue. The goal is to look at the company's revenue trends, and returns are a concern for the company's profit margin.
