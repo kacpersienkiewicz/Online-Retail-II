@@ -43,4 +43,3 @@ Both of these are intended to mitigate the possibility and risks if the peak sea
 ## Links
 * [Tableau Dashboard](https://public.tableau.com/app/profile/kacper.sienkiewicz/viz/Online_Retail_II_17788993017010/Customers)
 * [Dataset](https://archive.ics.uci.edu/dataset/502/online+retail+ii)
-* 
