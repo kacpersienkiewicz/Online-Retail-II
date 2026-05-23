@@ -41,6 +41,9 @@ A third recommendation is to create categories for items to be able to talk abou
 
 Both of these are intended to mitigate the possibility and risks if the peak season doesn't pan out well. Retaining top customers should help prevent it, and marketing during off-peak months should help provide revenue outside of that period.
 
+### Predictive Churn Model
+As a bonus, I also worked on a simple predictive churn model which has around a 75% accuracy in predictive customer churn based on the testing data.
+
 ## Links
 * [Tableau Dashboard](https://public.tableau.com/app/profile/kacper.sienkiewicz/viz/Online_Retail_II_17788993017010/Customers)
 * [Dataset](https://archive.ics.uci.edu/dataset/502/online+retail+ii)
