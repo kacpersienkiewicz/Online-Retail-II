@@ -35,7 +35,7 @@ In addition to the top 14% of customers accounting for around half of revenue, t
 ## Data Quality Issue
 There is a potential data quality issue with the data set as there is a market decrease in retention by previous cohorts which may be explained by there being 33% more missing customer IDs during this time period. There may be other explanations, but this may be skewing the data in some ways.
 
-![image](https://github.com/kacpersienkiewicz/Online-Retail-II/blob/main/Images/Customer%20Segment%20Dashboard.png?raw=true)
+![image](https://github.com/kacpersienkiewicz/Online-Retail-II/blob/main/Images/CohortAnalysis.png?raw=true)
 ## Conclusion and Recommendations
 The company relies on a small subset of the population for 50% of its revenue and it relies a third of the year for a similar amount of revenue. This is a risky thing to rely on so the company should think about trying to improve revenue in the off-season during Spring and Summer, especially since the average order value and volume is much lower than the peak season which implies that there is a decent amount of untapped potential there. A marketing campaign focused on bundles or limited-time offers could help bring up that portion of the year to provide some sort of safety net if the peak season does not play out as well as it normally does.
 
