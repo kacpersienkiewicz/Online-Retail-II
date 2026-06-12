@@ -33,7 +33,7 @@ In addition to the top 14% of customers accounting for around half of revenue, t
 
 ![image](https://github.com/kacpersienkiewicz/Online-Retail-II/blob/main/Images/Customer%20Segment%20Dashboard.png?raw=true)
 ## Data Quality Issue
-There is a potential data quality issue with the data set as there is a market decrease in retention by previous cohorts which may be explained by there being 33% more missing customer IDs during this time period. There may be other explanations, but this may be skewing the data in some ways.
+There is a potential data quality issue with the data set as there is a market decrease in retention by previous cohorts which may be explained by there being 33% more missing customer IDs during this time period. During this same time period revenue and order counts by month were noticably down from the previous year. There may be an issue with the application, pipeline or other process which caused more of the Customer IDs to be missing, which needs to be addressed.
 
 ![image](https://github.com/kacpersienkiewicz/Online-Retail-II/blob/main/Images/CohortAnalysis.png?raw=true)
 ## Conclusion and Recommendations
