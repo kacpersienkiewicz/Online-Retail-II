@@ -1,6 +1,11 @@
 # Online-Retail-II
 [Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii) has over a million orders from a UK e-commerce store who needs help deciding where to allocate some of their marketing budget.
 
+## Exececutive Summary
+* Revenue is concentrated in the holiday season from September to December.
+* It is also concentrated in the top 14% of customers.
+* The first cohort (customers whose first purchase is in December 2009) is especially dominant.
+
 ## Key Metrics
 * Revenue
 * Average Order Value
