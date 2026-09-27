@@ -1,5 +1,5 @@
 # Online-Retail-II
-[Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii) has over a million orders from a UK e-commerce store who needs help deciding where to allocate some of their marketing budget.
+[Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii) has over a million orders from a UK e-commerce store who needs help deciding where to allocate some of their marketing budget. I decided to help by analyzing how revenue is distributed throughout the year and how concentrated it is amongst certain customers.
 
 ## Exececutive Summary
 * Revenue is concentrated in the holiday season from September to December.
